@@ -9,7 +9,7 @@ const Home = () => {
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
             <p className=' text-pink-400 '>Hi, my name is</p>
             <h1 className=' text-4xl sm:text-7xl font-bold text-blue-600 ' >Vibhav Kamath</h1>
-            <h2 className=' text-4xl sm:text-7xl font-bold text-gray-300 ' >I'm a Web Developer</h2>
+            {/* <h2 className=' text-4xl sm:text-7xl font-bold text-gray-300 ' >I'm a Web Developer</h2> */}
             <p className=' text-gray-400 py-4 max-w-[700px] ' >I'm a full-stack developer specializing in building 
             exceptional digital experinces. Currently, I'm focused on building responsive full-stack web applications</p>
             <div>
