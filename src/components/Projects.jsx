@@ -24,10 +24,10 @@ const Projects = () => {
                             Tesla clone
                         </span>
                         <div className=' pt-8 text-center '>
-                            <a href='#'>
+                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
                             </a>
-                            <a href='#'>
+                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                             </a>
                         </div>
