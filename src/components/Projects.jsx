@@ -1,6 +1,11 @@
 import React from 'react'
-import WorkImg from '../assets/projects/workImg.jpeg'
-import realEstate from '../assets/projects/realestate.jpg'
+// import WorkImg from '../assets/projects/workImg.jpeg'
+// import realEstate from '../assets/projects/realestate.jpg'
+import tesla from '../assets/projects/tesla.jpg'
+import allocation from '../assets/projects/allocation.jpg'
+import auth from '../assets/projects/auth.jpg'
+import game from '../assets/projects/game.jpg'
+import api from '../assets/projects/api.jpg'
 
 const Projects = () => {
   return (
@@ -16,7 +21,7 @@ const Projects = () => {
                 {/* grid item  */}
                 <div
                     // style={{backgroundImage: `url(${WorkImg})`}} 
-                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    style={{backgroundImage: `url(${tesla})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects  */}
@@ -36,7 +41,7 @@ const Projects = () => {
                 </div>
 
                 <div
-                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    style={{backgroundImage: `url(${allocation})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects  */}
@@ -56,7 +61,7 @@ const Projects = () => {
                 </div>
 
                 <div
-                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    style={{backgroundImage: `url(${auth})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects  */}
@@ -76,7 +81,7 @@ const Projects = () => {
                 </div>
 
                 <div
-                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    style={{backgroundImage: `url(${game})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects  */}
@@ -96,7 +101,7 @@ const Projects = () => {
                 </div>
 
                 <div
-                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    style={{backgroundImage: `url(${api})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects  */}
