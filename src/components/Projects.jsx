@@ -16,12 +16,93 @@ const Projects = () => {
                 {/* grid item  */}
                 <div
                     // style={{backgroundImage: `url(${WorkImg})`}} 
+                    style={{backgroundImage: `url(${WorkImg})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
                     {/* hover effects  */}
                     <div className=' opacity-0 group-hover:opacity-100 ' >
                         <span className=' text-2xl font-bold text-white tracking-wider '>
                             Tesla clone
+                        </span>
+                        <div className=' pt-8 text-center '>
+                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
+                            </a>
+                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
+                    
+                    {/* hover effects  */}
+                    <div className=' opacity-0 group-hover:opacity-100 ' >
+                        <span className=' text-2xl font-bold text-white tracking-wider '>
+                            Team Allocation
+                        </span>
+                        <div className=' pt-8 text-center '>
+                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
+                            </a>
+                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
+                    
+                    {/* hover effects  */}
+                    <div className=' opacity-0 group-hover:opacity-100 ' >
+                        <span className=' text-2xl font-bold text-white tracking-wider '>
+                            Authentication System
+                        </span>
+                        <div className=' pt-8 text-center '>
+                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
+                            </a>
+                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
+                    
+                    {/* hover effects  */}
+                    <div className=' opacity-0 group-hover:opacity-100 ' >
+                        <span className=' text-2xl font-bold text-white tracking-wider '>
+                            Word Scarmble
+                        </span>
+                        <div className=' pt-8 text-center '>
+                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
+                            </a>
+                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                                <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+                    style={{backgroundImage: `url(${WorkImg})`}} 
+                    className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
+                    
+                    {/* hover effects  */}
+                    <div className=' opacity-0 group-hover:opacity-100 ' >
+                        <span className=' text-2xl font-bold text-white tracking-wider '>
+                            Quote Generator
                         </span>
                         <div className=' pt-8 text-center '>
                             <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
