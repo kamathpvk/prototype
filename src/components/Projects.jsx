@@ -50,10 +50,10 @@ const Projects = () => {
                             Team Allocation
                         </span>
                         <div className=' pt-8 text-center '>
-                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                            <a href='https://allocation.netlify.app/' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
                             </a>
-                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                            <a href='https://github.com/kamathpvk/allocation' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                             </a>
                         </div>
@@ -70,10 +70,10 @@ const Projects = () => {
                             Authentication System
                         </span>
                         <div className=' pt-8 text-center '>
-                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                            <a href='https://siteauth.netlify.app/' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
                             </a>
-                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                            <a href='https://github.com/kamathpvk/auth' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                             </a>
                         </div>
@@ -90,10 +90,10 @@ const Projects = () => {
                             Word Scarmble
                         </span>
                         <div className=' pt-8 text-center '>
-                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                            <a href='https://kamathpvk.github.io/game/' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
                             </a>
-                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                            <a href='https://github.com/kamathpvk/game' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                             </a>
                         </div>
@@ -110,10 +110,10 @@ const Projects = () => {
                             Quote Generator
                         </span>
                         <div className=' pt-8 text-center '>
-                            <a href='https://kamathpvk.github.io/tesla/' target='_blank'>
+                            <a href='https://kamathpvk.github.io/api/' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Site</button>
                             </a>
-                            <a href='https://github.com/kamathpvk/tesla' target='_blank'>
+                            <a href='https://github.com/kamathpvk/api' target='_blank'>
                                 <button className=' text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg '>Code</button>
                             </a>
                         </div>
