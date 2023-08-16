@@ -10,6 +10,7 @@ import FireBase from '../assets/firebase.png'
 import GitHub from '../assets/github.png'
 import Tailwind from '../assets/tailwind.png'
 // import Mongo from '../assets/mongo.png'
+import Shopify from '../assets/shopify.png'
 
 const Skills = () => {
   return (
@@ -43,8 +44,8 @@ const Skills = () => {
                     <p className=' my-4 ' >TAILWIND</p>
                 </div>
                 <div className=' shadow-md shadow-[black] hover:scale-110 duration-300 '>
-                    <img className=' w-20 mx-auto ' src={FireBase} alt='FireBase icon' />
-                    <p className=' my-4 ' >FIREBASE</p>
+                    <img className=' w-20 mx-auto ' src={Shopify} alt='FireBase icon' />
+                    <p className=' my-4 ' >SHOPIFY</p>
                 </div>
             </div>
         </div>
