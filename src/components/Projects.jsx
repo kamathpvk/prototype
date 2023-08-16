@@ -40,11 +40,11 @@ const Projects = () => {
                     </div>
                 </div>
 
-                <div
+                {/* <div
                     style={{backgroundImage: `url(${allocation})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
-                    {/* hover effects  */}
+                    
                     <div className=' opacity-0 group-hover:opacity-100 ' >
                         <span className=' text-2xl font-bold text-white tracking-wider '>
                             Team Allocation
@@ -58,13 +58,13 @@ const Projects = () => {
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
-                <div
+                {/* <div
                     style={{backgroundImage: `url(${auth})`}} 
                     className=' shadow-lg shadow-black group container rounded-md flex justify-center items-center mx-auto content-div ' >
                     
-                    {/* hover effects  */}
+                    
                     <div className=' opacity-0 group-hover:opacity-100 ' >
                         <span className=' text-2xl font-bold text-white tracking-wider '>
                             Authentication System
@@ -78,7 +78,7 @@ const Projects = () => {
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div
                     style={{backgroundImage: `url(${game})`}} 
