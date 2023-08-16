@@ -4,12 +4,12 @@ import HTML from '../assets/html.png'
 import CSS from '../assets/css.png'
 import JavaScript from '../assets/javascript.png'
 import ReactImg from '../assets/react.png'
-import Node from '../assets/node.png'
+// import Node from '../assets/node.png'
 import FireBase from '../assets/firebase.png'
-import AWS from '../assets/aws.png'
-import GitHub from '../assets/github.png'
+// import AWS from '../assets/aws.png'
+// import GitHub from '../assets/github.png'
 import Tailwind from '../assets/tailwind.png'
-import Mongo from '../assets/mongo.png'
+// import Mongo from '../assets/mongo.png'
 
 const Skills = () => {
   return (
@@ -43,8 +43,8 @@ const Skills = () => {
                     <p className=' my-4 ' >TAILWIND</p>
                 </div>
                 <div className=' shadow-md shadow-[black] hover:scale-110 duration-300 '>
-                    <img className=' w-20 mx-auto ' src={Mongo} alt='mongodb icon' />
-                    <p className=' my-4 ' >MONGO DB</p>
+                    <img className=' w-20 mx-auto ' src={FireBase} alt='FireBase icon' />
+                    <p className=' my-4 ' >FIREBASE</p>
                 </div>
             </div>
         </div>
