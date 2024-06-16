@@ -1,10 +1,9 @@
 {
-    "homepage": "https://kamathpvk.github.io/portfolio",
+    "homepage": "https://kamathpvk.github.io/prototype",
     "name": "react-tailwind-css-starter-pack",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
-        "gh-pages": "^5.0.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-icons": "^4.10.1",
@@ -46,6 +45,7 @@
         ]
     },
     "devDependencies": {
+        "gh-pages": "^6.1.1",
         "tailwindcss": "^3.2.7"
     }
 }
