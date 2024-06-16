@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a8ec213a.css",
-    "main.js": "/portfolio/static/js/main.67afa9d9.js",
+    "main.css": "/portfolio/static/css/main.350924bb.css",
+    "main.js": "/portfolio/static/js/main.08a317a9.js",
     "static/media/tesla.jpg": "/portfolio/static/media/tesla.a742eb52fc36f0a9fb67.jpg",
     "static/media/allocation.jpg": "/portfolio/static/media/allocation.f7d6356ee382ec8f0a0c.jpg",
     "static/media/auth.jpg": "/portfolio/static/media/auth.18d7ecaec39bdb8edf23.jpg",
@@ -16,11 +16,11 @@
     "static/media/firebase.png": "/portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.a8ec213a.css.map": "/portfolio/static/css/main.a8ec213a.css.map",
-    "main.67afa9d9.js.map": "/portfolio/static/js/main.67afa9d9.js.map"
+    "main.350924bb.css.map": "/portfolio/static/css/main.350924bb.css.map",
+    "main.08a317a9.js.map": "/portfolio/static/js/main.08a317a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8ec213a.css",
-    "static/js/main.67afa9d9.js"
+    "static/css/main.350924bb.css",
+    "static/js/main.08a317a9.js"
   ]
 }
